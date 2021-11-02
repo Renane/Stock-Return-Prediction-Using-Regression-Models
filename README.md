@@ -18,6 +18,7 @@ The predicting variables include:
 
 Predicting variables 1-6 are selected based on Fama French 5-Factor Model, which was designed by Eugene Fama and Kenneth French to describe stock returns in 2012. Fama shared the 2013 Nobel Memorial Prize in Economic Sciences. Data source: Kenneth R. French - Data Library.
 
+Implement long strategy based on the prediction, and perform back testing for 1 month period. The regression model achieves 2.32% accumulative return during the testing period, which outperforms the benchmark (1.83%) by approximately 27%.
 
 
 
